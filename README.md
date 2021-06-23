@@ -1,2 +1,2 @@
 # DS-Pragms
-This contains basic programs.
+This contains Python programs.
